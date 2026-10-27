@@ -1,2 +1,3 @@
 # catalogo-redirect
-Redireciona catalogo.dyup.com.br para dyup.com.br
+
+O endereço antigo catalogo.dyup.com.br manda o cliente para https://dyup.com.br, mantendo o caminho e a categoria (#bones etc.).
